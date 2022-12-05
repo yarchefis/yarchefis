@@ -14,6 +14,6 @@ I want to learn more...
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yardev_channel)
 
-[❤️Make a donation](https://yardev.su/donation.html)    
-[My website](https://yardev.su)
+[❤️Make a donation](https://yardev.pw/donation)    
+[My website](https://yardev.pw)
 
