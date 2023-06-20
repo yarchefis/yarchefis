@@ -1,3 +1,5 @@
+### Bio:
+My interest is python and websites. Now you can look at my repositories, maybe you will find something interesting😉
 ### Languages:
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor)
 
