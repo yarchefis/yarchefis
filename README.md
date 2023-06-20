@@ -1,5 +1,6 @@
 ### Languages and Tools:
-![pyrhon](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor)
+![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor)
+![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=VS code&logoColor)
 I want to learn more...
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yarchefis_chanel)
