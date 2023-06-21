@@ -8,6 +8,8 @@ My interest is python and websites. Now you can look at my repositories, maybe y
 ![css3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor)
 ![javascript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript&logoColor)
 
+![Russia](https://img.shields.io/badge/-Russia-090909?style=for-the-badge)
+
 I want to learn more...
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yarchefis_chanel)
