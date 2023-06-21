@@ -17,4 +17,4 @@ I want to learn more...
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/yarchefis)
 
 
-[![ ](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://youtube.com/@yarchefis)
+[![YouTube](https://img.shields.io/badge/- -090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://youtube.com/@yarchefis)
