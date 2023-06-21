@@ -1,6 +1,6 @@
 ![alt text](https://raw.githubusercontent.com/yarchefis/yarchefis/main/00F4AFF4-A2C9-434D-AA1F-3654547FC470.jpeg)
 ### Bio:
-As you understand, I am Yaroslav. I'm a novice youtuber[<img align="left" alt="yarchefis | YouTube" width="22px" src="https://img.icons8.com/color/2x/youtube-squared.png" />][youtube], but someone kicked me in the code…
+As you understand, I am Yaroslav. I'm a novice youtuber, but someone kicked me in the code…
 
 My interest is python and websites. Now you can look at my repositories, maybe you will find something interesting😉
 ### Languages:
