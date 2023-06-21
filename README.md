@@ -2,6 +2,7 @@
 My interest is python and websites. Now you can look at my repositories, maybe you will find something interesting😉
 ### Languages:
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor)
+![HTML](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html&logoColor)
 
 I want to learn more...
 ### Socials:
