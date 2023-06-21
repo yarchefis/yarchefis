@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/yarchefis/yarchefis/main/00F4AFF4-A2C9-434D-AA1F-3654547FC470.jpeg)
 ### Bio:
 As you understand, I am Yaroslav. I'm a novice youtuber, but someone kicked me in the code…
 
