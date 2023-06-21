@@ -1,5 +1,5 @@
 ### Bio:
-As you understand, I am Yaroslav. I'm a novice YouTuber  , but someone kicked me in the code…
+As you understand, I am Yaroslav. I'm a novice [![iconyt](https://img.shields.io/badge/-youtuber-090909?style=for-the-badge)]([https://t.me/yarchefis_chanel](https://youtube.com/@yarchefis)https://youtube.com/@yarchefis) , but someone kicked me in the code…
 
 My interest is python and websites. Now you can look at my repositories, maybe you will find something interesting😉
 ### Languages:
@@ -17,4 +17,3 @@ I want to learn more...
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/yarchefis)
 
 
-![YouTube](https://raw.githubusercontent.com/yarchefis/yarchefis/main/youtube16.png)
