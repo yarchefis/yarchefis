@@ -3,6 +3,7 @@
 As you understand, I am Yaroslav. I'm a novice youtuber, but someone kicked me in the code…
 
 My interest is python and websites. Now you can look at my repositories, maybe you will find something interesting😉
+[❤️Make a donation](https://www.donationalerts.com/r/yarchefis)
 ### Languages:
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor)
 ![HTML5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor)
