@@ -12,9 +12,8 @@ My interest is python and websites. Now you can look at my repositories, maybe y
 
 I want to learn more...
 ### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yarchefis_channel)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://youtube.com/@yarchefis)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yardev_channel)
 
-[❤️Make a donation](https://www.donationalerts.com/r/yarchefis)    
-[My website](https://yarchefis.ru)
+[❤️Make a donation](https://yardev.su/donation.html)    
+[My website](https://yardev.su)
 
