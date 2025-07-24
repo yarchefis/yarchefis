@@ -12,7 +12,7 @@ My interest is python and websites. Now you can look at my repositories, maybe y
 
 I want to learn more...
 ### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yardev_channel)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yardev_code)
 
 [❤️Make a donation](https://yardev.pw/donation)    
 [My website](https://yardev.pw)
