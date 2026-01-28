@@ -1,9 +1,6 @@
 
 ### Bio:
-As you understand, I am Yaroslav. I'm a novice youtuber, but someone kicked me in the code…
-
-My interest is python and websites. Now you can look at my repositories, maybe you will find something interesting😉
-
+web, web and more web.
 ### Languages:
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor)
 ![HTML5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor)
